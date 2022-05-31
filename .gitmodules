@@ -1,0 +1,3 @@
+[submodule "src/fxhash-libs"]
+	path = src/fxhash-libs
+	url = git@github.com:picturesbyrobots/fxhash-libs.git
